@@ -27,8 +27,8 @@ $toEmail = "antonielcbs@gmail.com"; // Replace Your Email Address
   // Sender's Email
 --------------------------------------------- */
 
-$fromEmail = "no-reply@website.com";  // Replace Company's Email Address (preferably currently used Domain Name)
-$fromName = "Company Name"; // Replace Company Name
+$fromEmail = "antonielcbs@gmail.com";  // Replace Company's Email Address (preferably currently used Domain Name)
+$fromName = "Antoniel Cleyton"; // Replace Company Name
 
 
 /* --------------------------------------------
